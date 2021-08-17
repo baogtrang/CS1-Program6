@@ -1,0 +1,5 @@
+The largest number: 974.3
+The smallest number: -24
+The average: 183.008
+Positive numbers: 10, 15, 98, 574.243, 195.54, 0, 974.3, 
+Negative numbers: -12, -24, -1, 
